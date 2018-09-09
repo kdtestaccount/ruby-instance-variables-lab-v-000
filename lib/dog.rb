@@ -1,9 +1,6 @@
 class Dog 
   
-  
-  def this_dogs_name(dog)
-    dog.
-  end
+def name = (dog_name)
 
 
 
